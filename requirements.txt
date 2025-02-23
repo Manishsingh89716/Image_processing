@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+pymysql
+python-dotenv
+celery
+redis
+Pillow
